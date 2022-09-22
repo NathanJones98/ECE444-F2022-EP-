@@ -87,10 +87,14 @@ class SearchResultDisplay extends Component{
       <div className="SearchQuery">
         <div style={{ marginTop: "10%" }}>
 <<<<<<< HEAD
+<<<<<<< HEAD
            <h1> EP - Nathan Jones</h1>
 =======
             <h1> EP - Nathan Jones</h1>
 >>>>>>> b8bae48c (Changed Name)
+=======
+            <h1> EP - Nathan Jones</h1>
+>>>>>>> a3e14d92b55c5fea1035388b5f4343c209d62bd5
             <br></br>
             {/* <div className = "body_text">
       Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
