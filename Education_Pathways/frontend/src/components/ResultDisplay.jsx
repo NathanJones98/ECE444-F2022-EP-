@@ -86,7 +86,7 @@ class SearchResultDisplay extends Component{
     return (
       <div className="SearchQuery">
         <div style={{ marginTop: "10%" }}>
-            <h1> EP - Nathan Jones</h1>
+            <h1> EP - Nathan Jones </h1>
 
             
             <br></br>
